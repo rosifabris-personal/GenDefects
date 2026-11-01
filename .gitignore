@@ -1,0 +1,7 @@
+venv/
+sin_defectos/
+resultados/
+.DS_Store
+__pycache__/
+aceite_version2.py
+resina_version2.py
